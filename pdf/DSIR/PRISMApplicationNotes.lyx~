@@ -1,0 +1,4309 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass scrbook
+\begin_preamble
+\usepackage{attachfile2}
+%\beamertemplateballitem% this changes item stuff into ball
+\usepackage{animate}
+\usepackage{multicol}
+%\usepackage{tikz}
+\usepackage{wasysym}
+\usepackage{ulem}
+\usepackage{colortbl}
+\usepackage{footnote}
+\makesavenoteenv{tabular}
+%\usepackage{lineno}
+\usepackage{minitoc}
+\usepackage{tocbibind}
+\usepackage{wrapfig}
+\usepackage{media9}
+%\usepackage{flashmovie}
+\usepackage{comment}
+\end_preamble
+\options single,pdftex
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package 
+\inputencoding auto
+\fontencoding global
+\font_roman tgpagella
+\font_sans tgheros
+\font_typewriter default
+\font_math auto
+\font_default_family sfdefault
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 92
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref true
+\pdf_title "AGEM Proposal"
+\pdf_author "Samar J. Singh, PhD"
+\pdf_subject "Pilot "
+\pdf_bookmarks false
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks true
+\pdf_pdfborder true
+\pdf_colorlinks true
+\pdf_backref section
+\pdf_pdfusetitle true
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 0
+\use_package esint 1
+\use_package mathdots 0
+\use_package mathtools 0
+\use_package mhchem 0
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 2cm
+\topmargin 2.5cm
+\rightmargin 2cm
+\bottommargin 2.5cm
+\footskip 1.5cm
+\secnumdepth 5
+\tocdepth 1
+\paragraph_separation skip
+\defskip 3pt
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+PRISM_ Phase-I: Individual Innovator Proposals
+\end_layout
+
+\begin_layout Subtitle
+Category II: Fabrication of Working Model/Process Know-how/Testing & Trial/Paten
+ting/Technology Transfer
+\end_layout
+
+\begin_layout Author
+Samar J.
+ Singh, PhD
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter*
+Conformance statement
+\end_layout
+
+\begin_layout Section*
+Eligibility
+\end_layout
+
+\begin_layout Standard
+I declare I am an Indian Citizen holding an Indian passport Number: Z2850879,
+ and believe that this proposal represents multiple innovations.
+\end_layout
+
+\begin_layout Section*
+Innovation components
+\end_layout
+
+\begin_layout Standard
+The objective of this submission is to support a proposal to enhance education
+ in government schools in Karnataka.
+ We propose to do this with a an additional component of education delivered
+ for 5 hours a week in Grade 6,7 and 8 in the first instance using the AGEM
+ method.
+ 
+\end_layout
+
+\begin_layout Standard
+The objectives are to enable participating government schools in Karnataka
+ to become the preferred schools in their communities.
+\end_layout
+
+\begin_layout Standard
+The AGEM method relies upon wireless feedback response technology, pre-prepared
+ topic plans with embedded questions, archival and analyses of student response,
+ and real time graphical displays of class response for more than 100 students
+ at a time.
+\end_layout
+
+\begin_layout Standard
+The specific innovations are in the design of wireless feedback response
+ technology, learning content, delivery methodology, feedback methods, and
+ analysis of archived responses.
+ 
+\end_layout
+
+\begin_layout Standard
+There is a twenty year background to this work that has involved setting
+ up two international schools, auditing international schools around the
+ country, and working with children who find themselves in difficult circumstanc
+es through poverty, natural disasters or HIV/AIDS in India, SE Asia and
+ Vietnam.
+ This is based on a twenty five year record of working in academia and serving
+ as Visiting Faculty in tertiary education institutes in several countries
+ including Singapore, Sweden, China and Australia.
+\end_layout
+
+\begin_layout Section*
+Scope and Support
+\end_layout
+
+\begin_layout Enumerate
+Our project cost of 17.535 lakhs lies within the permitted range of 5 lakhs
+ to 35 lakhs
+\end_layout
+
+\begin_layout Enumerate
+We provide a 
+\begin_inset Quotes eld
+\end_inset
+
+more rigorous demonstration of our original idea/invention/know-how in the
+ form of working prototype/processes
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+its testing and trial.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Our proposals demonstrate 
+\begin_inset Quotes eld
+\end_inset
+
+novel delivery models to take Science and Technology innovations to effect
+ inclusive growth
+\begin_inset Quotes erd
+\end_inset
+
+ through improving the learning environment in government schools in Karntaka.
+\end_layout
+
+\begin_layout Enumerate
+Our proposal falls under the 
+\begin_inset Quotes eld
+\end_inset
+
+technology or knowledge intensive area
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
+The maximum support we seek is under 20 lakhs.
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\begin_layout Chapter
+Title of the proposed project
+\end_layout
+
+\begin_layout Standard
+Revitalizing public schools - infusing modern content with innovative technology
+\end_layout
+
+\begin_layout Chapter
+Applicant details
+\end_layout
+
+\begin_layout Section
+Name of the applicant 
+\end_layout
+
+\begin_layout Standard
+Samar Jit Singh
+\end_layout
+
+\begin_layout Section
+Father’s name/Husband’s name
+\end_layout
+
+\begin_layout Standard
+Father's name: Jang Bahadur Singh(deceased)
+\end_layout
+
+\begin_layout Section
+Postal address
+\end_layout
+
+\begin_layout Standard
+C510, Sterling Residency
+\end_layout
+
+\begin_layout Standard
+#80 RMV II Stage, Dollars Colony
+\end_layout
+
+\begin_layout Standard
+Bangalore - 560094
+\end_layout
+
+\begin_layout Standard
+Mobile: +91 90199 97070
+\end_layout
+
+\begin_layout Standard
+Email: samar@agem.in
+\end_layout
+
+\begin_layout Section
+Present address
+\end_layout
+
+\begin_layout Standard
+As above
+\end_layout
+
+\begin_layout Section
+Permanent address
+\end_layout
+
+\begin_layout Standard
+As above
+\end_layout
+
+\begin_layout Section
+Address of Organization/Institute
+\end_layout
+
+\begin_layout Standard
+Not applicable
+\end_layout
+
+\begin_layout Section
+Profession
+\end_layout
+
+\begin_layout Standard
+(Please tick as applicable)
+\end_layout
+
+\begin_layout Standard
+[ ]Faculty
+\end_layout
+
+\begin_layout Standard
+[ ]Doctor
+\end_layout
+
+\begin_layout Standard
+[ ]Scientist
+\end_layout
+
+\begin_layout Standard
+[ ]Housewife 
+\end_layout
+
+\begin_layout Standard
+[ ]Student
+\end_layout
+
+\begin_layout Standard
+[ ]Farmer
+\end_layout
+
+\begin_layout Standard
+[x] Any other: Former university academic and current education activist.
+\end_layout
+
+\begin_layout Section
+Personal details
+\end_layout
+
+\begin_layout Itemize
+Date of Birth: 46/08/21
+\end_layout
+
+\begin_layout Itemize
+Educational qualification: PhD - University of Wales, College of Cardiff.
+\end_layout
+
+\begin_layout Itemize
+Annual Income of the applicant: Rs.
+ 5.5 lakhs
+\end_layout
+
+\begin_layout Section
+Financial details
+\end_layout
+
+\begin_layout Subsection
+Income Tax Return AY2014-15
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename SamarTaxAY2014_15.png
+	width 60col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+PAN No.
+ (mandatory)
+\end_layout
+
+\begin_layout Standard
+AZSPS2856B
+\end_layout
+
+\begin_layout Subsection
+Aadhar Number
+\end_layout
+
+\begin_layout Standard
+7479 7755 3983
+\end_layout
+
+\begin_layout Chapter
+Details of work done on innovation so far
+\end_layout
+
+\begin_layout Standard
+I would recommend a quick review of 
+\begin_inset CommandInset href
+LatexCommand href
+name "5 minute video"
+target "https://www.youtube.com/watch?v=yT5eb1KV3J4"
+
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+This is a video introduction to a final project on a Stanford University
+ online course which briefly introduces the ideas underlying this proposal.
+ 
+\end_layout
+
+\end_inset
+
+ which provides:
+\end_layout
+
+\begin_layout Itemize
+an overview of the problem we are trying to address
+\end_layout
+
+\begin_layout Itemize
+the general objectives we seek to achieve
+\end_layout
+
+\begin_layout Itemize
+the strategic goals we aim for
+\end_layout
+
+\begin_layout Itemize
+the uniqueness of the approach
+\end_layout
+
+\begin_layout Itemize
+the impact of a pilot study in a school for the weaker segments of our society
+\end_layout
+
+\begin_layout Section
+Literature survey/patent search
+\end_layout
+
+\begin_layout Standard
+This work has been developed over more than a decade employing a 
+\begin_inset Quotes eld
+\end_inset
+
+Needs Analysis
+\begin_inset Quotes erd
+\end_inset
+
+ approach involving extensive interactions with groups ranging from children
+ with HIV/AIDS to more than 7000 fellow educators worldwide undertaking
+ On-line courses with Stanford University
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+including 
+\begin_inset Quotes eld
+\end_inset
+
+Technological Entrepreneurship
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+Designing a New Learning Environment
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+, to Professors of the Harvard Graduate School of Education.
+ During this period I have also set up two International schools from base,
+ where our ideas were challenged by ground realities in Bangalore.
+ In the circumstances, I feel the approach below is more likely to indicate
+ the preparatory background to this work.
+\end_layout
+
+\begin_layout Subsection
+Current state of educational technology vs our approach
+\end_layout
+
+\begin_layout Subsubsection
+Feedback technology and current usage
+\end_layout
+
+\begin_layout Standard
+Feedback devices or personal response devices have now been used for more
+ than a decade in various formulations overseas.
+ However, they tend to be used at the university level in the United States
+ and are often focused on multiple choice questions.
+ In any event, as a result of cost and battery drain they are unrealistic
+ in the Indian Government school context.
+\end_layout
+
+\begin_layout Subsubsection
+Our approach
+\end_layout
+
+\begin_layout Standard
+The uniqueness of our approach comes from approaching the issue from a different
+ angle.
+ We started with 
+\series bold
+\emph on
+what
+\series default
+\emph default
+ needs to be achieved, and 
+\series bold
+\emph on
+how
+\series default
+\emph default
+ it needs to be achieved in learning terms, in lower income schools.
+ Over the last two decades I have drawn from experience with students in
+ many settings and also from what neuroscience is telling us about learning
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Please refer to the downloadable book I helped produce, 
+\begin_inset Quotes eld
+\end_inset
+
+Learning Schooling and the Brain
+\begin_inset Quotes erd
+\end_inset
+
+, available at http://www.agem.in/pdf/LSB.pdf
+\end_layout
+
+\end_inset
+
+, to define the type of technology we may want, and how we may want to use
+ it.
+ The mechanisms by which the data generated is analyzed, presented and used
+ is a pertinent factor in the overall performance of our system.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Subsection
+Relevant background
+\end_layout
+
+\begin_layout Subsubsection
+University academic, consultant and researcher
+\end_layout
+
+\begin_layout Plain Layout
+I was an academic at the Hong Kong Polytechnic University and its predecessor
+ the Hong Kong Polytechnic for 25 years till 1997 where I also did volunteer
+ work in training teachers of the English Schools Foundation on the use
+ of computers when the BBC B first came out in the early 1980's, and have
+ served as visiting faculty at universities in Australia, Sweden and China.
+ In 1997 I returned to India to work on the issue of educational reform.
+\end_layout
+
+\begin_layout Subsubsection
+NGO consultant working with children in India
+\end_layout
+
+\begin_layout Plain Layout
+While working with children in difficult circumstances in Maharashtra, Andhra
+ Pradesh, Rajasthan, Delhi and Karnataka - as part of a DFID funded HIV
+ project overseen by representatives from DFID, NACO and the United Nations
+ Commission for AIDS - I fine tuned and tested our procedures, hardware
+ and software.
+ We also tested our second generation of feedback devices during these projects
+ in short spurts in urban and rural settings.
+ There were many insights that were drawn from these experiences.
+\end_layout
+
+\begin_layout Plain Layout
+With a colleague I also worked on the role of Social Equity Audits for NGO’s
+ in Tamil Nadu after the 2004 Tsunami, and in Kashmir after the 2005 earthquake.
+ We later conducted an evaluation of a Child Rights project in Vietnam,
+ in addition to preparing projects ranging from the reduction of MMR and
+ IMR in Madhya Pradesh to Child Rights in Burkina Faso.
+ These experiences led to new perspectives on the type of education we need
+ to adopt.
+\end_layout
+
+\begin_layout Subsubsection
+Volunteer with Janaagraha
+\end_layout
+
+\begin_layout Plain Layout
+I volunteered with Janaagraha for over ten years where we developed courses
+ and extended the Balajanaagraha program to 40 schools in Bangalore in some
+ of which I taught young children the concepts of democracy.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Consultant - University of Cambridge International Examinations
+\end_layout
+
+\begin_layout Plain Layout
+For several years, I visited many international schools in different parts
+ of the country to audit their conformance with the standards of the University
+ of Cambridge International Examinations (CIE) in the capacity of a consultant
+ to CIE.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Director, Trio World School
+\end_layout
+
+\begin_layout Plain Layout
+In 2007 I took over a school in Bangalore that found itself in difficulty
+ and restored it to a functioning entity and renamed it the Trio World School.
+ Here we developed the third and fourth generation of our feedback devices.
+ During that time, we signed an agreement with the Harvard Graduate School
+ of Education to conduct a joint seminar on Mind, Brain and Education with
+ a view to informing education policy decision making in India.
+ We were also being considered as a research school for HGSE when the owners
+ decided to renege on the contract with Harvard and I parted company with
+ the school.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Development work done so far, including involvement of agencies, consultation
+ with experts
+\end_layout
+
+\begin_layout Standard
+Considerable work has been done since 1998 on the 
+\series bold
+process and the mechanisms - including technology -
+\series default
+ by which learning can be enhanced in terms of scalability, effectiveness,
+ affordability, and measurability with a view to enhancing the quality of
+ education in government schools in our country.
+\end_layout
+
+\begin_layout Description
+1998-2000: setting up of Vidyashilp Academy in 1998 where I was permitted
+ to define the academic regime and first implemented a feedback system using
+ what are now known as 
+\begin_inset Quotes eld
+\end_inset
+
+Clickers
+\begin_inset Quotes erd
+\end_inset
+
+.
+ This approach was based on my background in Cognitive Engineering which
+ had implications for the educational system as a whole.
+ A central principle was that 
+\begin_inset Quotes eld
+\end_inset
+
+feedback delayed is learning denied
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Description
+2001: While on a 3 month assignment to the Maldives for the Foreign and
+ Commonwealth Office in the capacity of an Expert to the Minister for Transport
+ and Civil Aviation, I took the opportunity to study the pros and cons of
+ the Maldivian system of education.
+ This formed part of the final report to the Foreign and Commonwealth Office.
+
+\series bold
+ 
+\series default
+Report available on request.
+\end_layout
+
+\begin_layout Description
+2001: Participated in an online interactive course by the Harvard Graduate
+ School of Education on 
+\begin_inset Quotes eld
+\end_inset
+
+Assessing for Understanding
+\begin_inset Quotes erd
+\end_inset
+
+ with 62 other educators from around the world during my tenure in the Maldives.
+ Certificate available on request.
+\end_layout
+
+\begin_layout Description
+2004-2007: Volunteered with 
+\begin_inset CommandInset href
+LatexCommand href
+name "Janaagraha"
+target "http://www.janaagraha.org"
+
+\end_inset
+
+ for designing and implementing a civic education program across 40 schools
+ in Bangalore.
+ 
+\end_layout
+
+\begin_layout Description
+2005-2009: Consultant, University of Cambridge International Examinations
+ auditing international schools across the country.
+ Endorsement email 
+\series bold
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+textattachfile[color=0 0 1]{PeterTabbitt.pdf}{here}
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Description
+2005-2008: Child Led Social Equity Assessment project in Tamil Nadu and
+ Kashmir, HIV/AIDS Stigma and Discrimination project for DFID funded project
+ with children in 5 states, evaluation report of children's projects in
+ 5 Tsunami affected countries.
+ These were all conducted for Plan India.
+ Reports available on request.
+\end_layout
+
+\begin_layout Description
+2006: Consultant, Plan International - Evaluation Projects in Vietnam (2006)
+ in the field of child rights.
+ Also created a successor project implemented by Plan Vietnam called the
+ Youth Empowerment System whose overall goal was to reduce the incidence
+ and intensity of physical and emotional punishment meted out to children
+ in Plan Vietnam’s Program Unit provinces.
+ Reports available on request.
+\end_layout
+
+\begin_layout Description
+2007-2008: Restored the failed Mastery International school in Bangalore
+ into Trio World School, approved by Cambridge International Examinations
+ (CIE) for IGCSE and A Levels.
+ Also developed the 4th generation of feedback devices and the instructor
+ software.
+ Also contracted with Harvard Graduate School of Education to jointly mount
+ a seminar on 
+\begin_inset Quotes eld
+\end_inset
+
+Mind, Brain and Education
+\begin_inset Quotes erd
+\end_inset
+
+ to re-direct Indian educational policies for the future.
+\end_layout
+
+\begin_layout Description
+2008-2013: Various Professional education programmes with Stanford on Technology
+ Entrepreneurship(with Distinction), Designing a New Learning Environment
+ (with Distinction), and with Harvard Graduate School of Education on Mind,
+ Brain and Education (2008)
+\end_layout
+
+\begin_layout Description
+2009-2010: Conducted a Pilot Program for 22 students in Maths.
+ Redesigned software to cater for the previous limit of 19 devices per coordinat
+or.
+\end_layout
+
+\begin_layout Description
+2013-2014: Set up a program in Danddeli to provide free education using
+ our system for English instruction for about 40 children from local govt.
+ schools.
+ This is now concluded.
+\end_layout
+
+\begin_layout Description
+2014: Put a proposal to Government of Karnataka for introducing our system
+ into local government schools on a phased basis.
+ The Government of Karnataka has indicated they have accepted this proposal
+ which has stimulated this submission.
+\end_layout
+
+\begin_layout Section
+Patenting of the innovation
+\end_layout
+
+\begin_layout Standard
+There is no intention to patent this innovation.
+ The key to this innovation lies in the complex interplay between the structure
+ of the program, the content and embedded questions, the assessment methods,
+ the representation of the responses, and the analysis of archived performance
+ which provides many insights about the student, the quality of delivery,
+ the quality of the material etc.
+ We look to eventually subsidizing public school services with private sector
+ profits.
+\end_layout
+
+\begin_layout Section
+Tie-up for design, fabrication etc with any external agencies
+\end_layout
+
+\begin_layout Description
+Hardware: More than 20 year collaboration on hardware and driver software
+ with a company in the United Kingdom
+\end_layout
+
+\begin_layout Description
+Driver
+\begin_inset space ~
+\end_inset
+
+software: Seven year collaboration with software design and development
+ expert in Latvia
+\end_layout
+
+\begin_layout Description
+Application
+\begin_inset space ~
+\end_inset
+
+software: Fifteen year old collaboration with programmer in United States/India.
+\end_layout
+
+\begin_layout Section
+Techno-economic / market feasibility studies /reports, if any
+\end_layout
+
+\begin_layout Itemize
+We have sought and on at least two occasions have been offered funding for
+ setting up a venture to pursue a project for generating revenue by catering
+ exclusively to private schools.
+ However, having already set up two schools catering to high income families
+ and offering the Cambridge GCSE and A Level qualifications, I rejected
+ these options which would be focused solely on provision of this system
+ to private schools.
+ A spreadsheet of the financials for the private school venture is offered
+ 
+\series bold
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+textattachfile[color=0 0 1]{AGEM_Financials.xls}{here}
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+We have also devised a strategy to cross subsidize government schools as
+ part of a revenue generating venture.
+ That is included in Part IV of the document 
+\series bold
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+textattachfile[color=0 0 1]{DNLE_FinalProject.pdf}{here}
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+As part of the Stanford University course on 
+\begin_inset Quotes eld
+\end_inset
+
+Technological Entrepreneurship
+\begin_inset Quotes erd
+\end_inset
+
+, we analysed the strategies we had used for getting this project up and
+ running.
+ A report of the analysis of responses from 47 respondents comprising three
+ different populations of teachers at a local school, students at a journalism
+ school, and principals and administrators of a chain of elite schools is
+ 
+\series bold
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+textattachfile[color=0 0 1]{Assignment3.pdf}{attached here}
+\end_layout
+
+\end_inset
+
+.
+
+\series default
+ We came to the conclusion that we had been unsuccessful in defining the
+ customer for the product.
+ After much consideration we decided that the customer would be an owner-princip
+al on the grounds that in private schools only owner-principals were sufficientl
+y impacted to want to incorporate this program in their school.
+ We made a presentation to 3 schools and two immediately accepted the program.
+ In general owners who were not principals were reluctant to modulate an
+ existing revenue stream emanating from their school and principals who
+ were not owners saw no need to modulate their existing system.
+ We made a presentation to three schools and obtained confirmation of interest
+ from two.
+ We eventually concluded that the Minister for Primary and Secondary Education
+ would be the person most likely to see the value of this project.
+ In brief we felt that a policy level initiative was needed.
+ We tried to work with the Harvard Graduate School of Education to mount
+ their MBE program for policy makers but the high cost of the program and
+ the absence of government interest combined to thwart this initiative at
+ the central level.
+\end_layout
+
+\begin_layout Itemize
+It has taken us time to devise a plan for working with government and getting
+ access to a high enough authority in government to present it to.
+ This we did on 7 July 2014.
+ A week later during our meeting the Minister personally arranged a meeting
+ with Director, DSERT for the same day, where I had an opportunity to present
+ our program and its rationale to a DSERT group that included the Deputy
+ Director.
+ I was informed by the Deputy Director directly after the presentation that
+ they would support the program.
+ We received the workorder from Director, DSERT on 25 August 2014 for the
+ first of the four phases defined in our proposal .
+ The presentation to DSERT with embedded explanatory notes has been embedded
+ 
+\series bold
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+textattachfile[color=0 0 1]{Presentation.pdf}{here}
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+The proposal to the Hon'ble Minister cited Five phases for the project with
+ each phase being dependent on the success of the previous phase.
+ These are cited below:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Graphics
+	filename FirstPhase.png
+	lyxscale 30
+	width 70col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Graphics
+	filename Other4Phases.png
+	lyxscale 30
+	width 70col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset label
+LatexCommand label
+name "PhasesKarnatakaProgram"
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+
+\series bold
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+The quality of this product is so far in excess of facilities prevailing
+ in government schools that the primary issue is in being able to collaborate
+ with government.
+ If that happens on any sort of scale, private school participation will
+ require little marketing.
+ The quality of private schools is not significantly better so the prime
+ driver may well be the competition that government schools participating
+ in this project create.
+ For this reason, it is important to be able to complete the validation
+ phase of our project and extend the program to ten government schools in
+ Bangalore in the next phase.
+ We conducted a Pilot Program with the Maria Niketan School in Bangalore.
+ The report of that is available 
+\begin_inset CommandInset href
+LatexCommand href
+name "here"
+target "http://www.agem.in/pdf/BriefReport.pdf"
+
+\end_inset
+
+.The revenue from Govt.
+ schools could generate the investment needed for the commercial enterprise.
+ Importantly, the marginal cost of provision is near zero in such an enterprise
+ and larger classes are better and cheaper than smaller classes.
+ A spreadsheet to explain the financials is 
+\series bold
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+textattachfile[color=0 0 1]{AGEEM_Finacials.xls}{here}
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Section
+Consumers / users feedback, if any
+\end_layout
+
+\begin_layout Description
+July
+\begin_inset space ~
+\end_inset
+
+2014: The presentation to the Hon'ble Minister for Primary and Secondary
+ Education, Govt.
+ of Karnataka was the first form of validation where the Minister directed
+ the Department of State Education and Training to consider the proposal
+ and report back.
+ The Department has agreed to issue a work order to that effect after listening
+ to the presentation and receiving the proposal.
+\end_layout
+
+\begin_layout Description
+April
+\begin_inset space ~
+\end_inset
+
+2010: We conducted two sessions while on a visit to Chennai in 2010.
+ We had no prior experience with the students or the institutions.
+ The first was for a set of graduating MBA students on Decision Making Processes
+ and the second was intended for a Class 5 audience that was substituted
+ by a group in Class 9 and 10, who were subjected to our first lesson plan
+ for Mathematics i.e.
+ The concept of number.
+ The report is embedded 
+\series bold
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+textattachfile[color=0 0 1]{MVM.pdf}{here}
+\end_layout
+
+\end_inset
+
+ 
+\series default
+and makes interesting reading.
+ 
+\end_layout
+
+\begin_layout Section
+Any other
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Any-other"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+The report for the DNLE on-line course with Stanford University is embedded
+ 
+\series bold
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+textattachfile[color=0 0 1]{03FinalProject_PRISM.pdf}{here}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Brief write-up giving broad details of the original idea/ invention/ IPR/
+ Know how available with the individual, highlighting its originality/Novelty
+ and the scientific principle involved therein.
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Brief write-up giving broad details
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Broad details
+\end_layout
+
+\begin_layout Subsubsection
+The stimulus
+\end_layout
+
+\begin_layout Standard
+Recently, the govt.
+ of Karnataka accepted the first phase recommendation of my plan of action
+ for incrementing education in govt.
+ schools (Appendix 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "chap:Letter-from-Department"
+
+\end_inset
+
+).
+ The objective of this plan is to reverse the decline of govt.
+ schools participating in this program, through an infusion of technology
+ driven education for about 1 hour a day on average.
+\end_layout
+
+\begin_layout Subsubsection
+The AGEM system
+\end_layout
+
+\begin_layout Standard
+AGEM has developed and tested mechanisms for improving education - through
+ small injections of meaningful education - over the last 17 years.
+ A key element of the process is the development of individual feedback
+ devices for students so that all students even in large classes can be
+ active participants in the learning and assessment process.
+ These methods and processes have been used in two schools, several NGO
+ projects, presentations to principals and professionals, as well as in
+ a pilot program for 22 students at a school catering for very poor children.
+\end_layout
+
+\begin_layout Standard
+Key elements of the system include the projection of pre-prepared lesson
+ plans with embedded questions which students answer using the feedback
+ devices.
+ These responses are immediately represented in an appropriate graphical
+ summary and projected for the class to see within seconds.
+ All responses are stored for archival, analysis, and reporting.
+\end_layout
+
+\begin_layout Section
+Know-how highlighting its originality and the scientific principle involved
+\end_layout
+
+\begin_layout Standard
+More than two thousand years ago, Socrates is reputed to have said that
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Education is the kindling of a flame, not the filling of a vessel
+\begin_inset Quotes erd
+\end_inset
+
+.
+ While the thought is more than two thousand years old, it has yet to permeate
+ our system of education.
+\end_layout
+
+\begin_layout Subsection
+Originality
+\end_layout
+
+\begin_layout Standard
+Few would argue that government schools need to change in order for the
+ country to progress but this is a monumental task.
+ That important task is hindered by the stranglehold of the examination
+ system on the one hand and teacher ability on the other.
+ 
+\end_layout
+
+\begin_layout Standard
+Our system strives to provide a complementary injection of education unencumbere
+d by either the examination system or by teacher ability.
+ Indeed we would say that the ability to invoke the teacher as a facilitator
+ in a externally managed process has scope both for educating the teacher
+ into a reformed process and at the same time providing meaningful education
+ for large numbers of students.
+ When a critical mass of teachers and students have been energised into
+ new ways of thinking, the process of educational reform will have begun
+ for teachers to recreate in schools the education they have themselves
+ experienced.
+\end_layout
+
+\begin_layout Subsubsection
+Changing the eco-system
+\end_layout
+
+\begin_layout Standard
+We seek to achieve the following outcomes with our system, which are unique
+ in the government schools context.
+\end_layout
+
+\begin_layout Itemize
+make assessment fair, neutral and devoid of public humiliation
+\end_layout
+
+\begin_layout Itemize
+invoke efficient learning without homework or textbooks.
+\end_layout
+
+\begin_layout Itemize
+permit large classes to become an advantage rather than a problem.
+\end_layout
+
+\begin_layout Itemize
+harness the energy of adolescence through working with Grades 6, 7 and 8.
+\end_layout
+
+\begin_layout Itemize
+make teachers partners in the new system.
+\end_layout
+
+\begin_layout Itemize
+demonstrate that meaningful education works better than verbal, physical
+ and mental abuse for class management.
+\end_layout
+
+\begin_layout Subsubsection
+Specifics
+\end_layout
+
+\begin_layout Standard
+More specifically, the originality of this innovation stems from:
+\end_layout
+
+\begin_layout Itemize
+the purpose built feedback devices - one per student - which are our fourth
+ generation design focused on the specific needs of our own curriculum.
+ These permit over a hundred students to respond in parallel.
+\end_layout
+
+\begin_layout Itemize
+The curriculum which manifests as pre-made multimedia Topic Plans
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+We differentiate these from lesson plans as we see ourselves free to take
+ as many lessons as are needed to complete that integrated learning that
+ is characteristic of the Topic Plans.
+\end_layout
+
+\end_inset
+
+ with embedded questions which serve various functions stretching from student
+ assessment to lesson plan evaluation.
+ This curriculum is designed to develop the skills needed when students
+ enter tertiary education or the workplace after a decade.
+ Our focus is on making the student a lifelong learner by learning how to
+ learn.
+\end_layout
+
+\begin_layout Itemize
+The representations both textual and graphic which provide the class an
+ immediate summary of the response of each student without identifying the
+ student.
+ These stimulate conversations that are moderated by the teacher.
+\end_layout
+
+\begin_layout Itemize
+Large classes - 60 to 100 students - provide richness of analysis so that
+ each student can identify their own individual responses in the context
+ of the class response.
+ At the same time confidentiality of the student is maintained.
+\end_layout
+
+\begin_layout Itemize
+Archival and analysis of student responses for facilitating optimum methods
+ of delivery as well as improving performance of students, teachers and
+ Topic Plans
+\end_layout
+
+\begin_layout Itemize
+The ability to provide this education for multiple grades of classes as
+ our content seeks to build on strong fundamentals which address the future
+ needs of academia and industry.
+ These will in Grades 9 and 10 encompass entrepreneurship skills and mathematica
+l modeling of real life problems.
+ 
+\end_layout
+
+\begin_layout Standard
+Perhaps the most significant originality is in the multiplexing of the technolog
+y, software outputs and well researched content that can be delivered to
+ large classes in multiple locations India-wide.
+\end_layout
+
+\begin_layout Subsection
+Scientific principle
+\end_layout
+
+\begin_layout Subsubsection
+Feedback
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+The scientific principles that underlie this approach are largely derived
+ from recent research that fMRI's, PET scans and other more sophisticated
+ methods have facilitated.
+ My colleague and I have produced a publication for teachers worldwide and
+ made it freely available on the Internet.
+ 
+\end_layout
+
+\begin_layout Plain Layout
+After 25 years of research, consultancy and training at the Hong Kong Polytechni
+c University I came to the realization that poor decision making is most
+ often the result of poor educational systems.
+ Hence, even in setting up the first school in 1998, I emphasized a questioning
+ approach through the inclusion of carefully framed embedded questions in
+ pre-prepared lesson plans.
+ This was coupled with the deployment of feedback devices which satisfied
+ my personal dictum that 
+\begin_inset Quotes eld
+\end_inset
+
+feedback delayed is learning denied
+\begin_inset Quotes erd
+\end_inset
+
+.
+ When you contrast this with the normal practice where test results are
+ delivered days or week after the student has taken the exam, then a few
+ seconds delay is exhilarating for students.
+ In any event, our questions are variously designed to provide learning,
+ assessment or an opportunity to address a different context for what is
+ learned.
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+The principles from which this innovation was developed derive from the
+ area of cognitive engineering which is a multidisciplinary endeavor concerned
+ with the analysis, design, and evaluation of complex systems of people
+ and technology.
+\end_layout
+
+\end_inset
+
+ Quality and immediacy of feedback are salient elements of productive work.
+ Boud and Malloy point out - albeit in the context of higher and professional
+ education - that feedback has a double duty.
+ The first is,
+\begin_inset Quotes erd
+\end_inset
+
+not to just improve immediate performance of students on their current tasks
+ and educational outcomes, but to build their capacity to use feedback for
+ their own ends.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+They go further to say that students need 
+\begin_inset Quotes eld
+\end_inset
+
+to build high levels of self-regulatory activity so they can plan and manage
+ their performance, monitor themselves and utilise all manner of persons
+ and processes to generate what they need to be effective practitioners.
+\begin_inset Quotes erd
+\end_inset
+
+ This they cite as the second value of feedback.
+\end_layout
+
+\begin_layout Standard
+In the school context, I would summarize this to say that we need to consider
+ that 
+\begin_inset Quotes eld
+\end_inset
+
+feedback delayed is learning denied
+\begin_inset Quotes erd
+\end_inset
+
+, if we are to work with children to develop the capabilities for a productive
+ future.
+\end_layout
+
+\begin_layout Subsubsection
+The neurobiology of learning
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:The-neurobiology-of"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+More importantly, my interactions with Prof.
+ Kurt Fischer of the Harvard Graduate School of Education (HGSE) created
+ awareness of the complex mechanisms by which learning takes place - not
+ necessarily linearly.
+\end_layout
+
+\begin_layout Standard
+Immordino Yang and Damasio's work has highlighted the role of emotion in
+ facilitating learning and Immordino Yang's research with fMRI scans and
+ researching the neurobiology of learning have yielded valuable insights
+ into the learning process.
+ Alden Blodget and I have endeavored to make this learning more widely available
+ by making our electronic publication, 
+\begin_inset Quotes eld
+\end_inset
+
+Learning, Schooling and the Brain
+\begin_inset Quotes erd
+\end_inset
+
+ freely available for download 
+\begin_inset CommandInset href
+LatexCommand href
+name "here"
+target "http://www.agem.in/pdf/LSB.pdf"
+
+\end_inset
+
+.
+ This book represents a comprehensive statement of many of the scientific
+ principles behind our method.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+I have also been privileged to have access to some of the finest minds in
+ hardware and software development through long associations that sometimes
+ precede my return to India.
+ That has allowed us to develop 4 generations of feedback devices.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Subsubsection
+Current status
+\end_layout
+
+\begin_layout Plain Layout
+Our current inventory of feedback devices permits us to conduct a validation
+ exercise for about 100 students - including pre and post testing for an
+ experimental and control group - in order for government to determine the
+ efficacy of our methods before expanding the program to the next phase
+ i.e.
+ 10 Bangalore schools.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+The rationale of this PRISM submission
+\end_layout
+
+\begin_layout Standard
+We would at this stage like to design and produce 25 units of the next generatio
+n of feedback devices so that they can be ready for deployment in future
+ phases of this program to improve the quality of the next ten government
+ schools.
+ We would like to have them ready for testing and student feedback within
+ this first validation phase.
+ In similar fashion the production of topic plans and the development of
+ a distribution technology during this phase will be necessary if one has
+ to cater to multiple schools with a school teacher in the classroom as
+ opposed to doing it myself.
+ These require a level of funding which is the reason for this application.
+\end_layout
+
+\begin_layout Section
+Description of working of the innovation (use sketch/drawing , patent,photograph
+s, video to explain the working)
+\end_layout
+
+\begin_layout Standard
+I repeat the video link to the 
+\begin_inset CommandInset href
+LatexCommand href
+name "5 minute video"
+target "https://www.youtube.com/watch?v=yT5eb1KV3J4"
+
+\end_inset
+
+ which gives a broad overview.
+\end_layout
+
+\begin_layout Section
+Description of science behind the innovation
+\end_layout
+
+\begin_layout Standard
+I would refer you to Section 18 of the paper embedded in Section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:Any-other"
+
+\end_inset
+
+, Section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sub:The-neurobiology-of"
+
+\end_inset
+
+ of this submission, and our E-book available at 
+\begin_inset CommandInset href
+LatexCommand href
+name "http://www.agem.in/pdf/LSB.pdf"
+target "here"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Section
+Technology trends from the literature survey and patent search
+\end_layout
+
+\begin_layout Standard
+At the simplest level, feedback devices or classroom response systems come
+ in the form of 
+\begin_inset Quotes eld
+\end_inset
+
+clickers
+\begin_inset Quotes erd
+\end_inset
+
+.
+ These are the the most fundamental of feedback devices but allow merely
+ 4 to 10 keys which can be used to enter numbers or specify the number of
+ an option in a multiple choice quiz.
+ This is what we started off with at the first school in 1998 in Bangalore.
+\end_layout
+
+\begin_layout Standard
+The next level of technology is where there is a wider choice of keys to
+ press.
+ Hardware in this form can at the simplest level appear like mini keyboards
+ with a small screen.
+ At the highest level it can take the form of tablets such as the IPad which
+ permit Internet access and provide the usual tools for calculation and
+ writing.
+ 
+\end_layout
+
+\begin_layout Standard
+The next genre of devices is the BYOD or bring your own device movement
+ where students can log in and use their own smartphones for answering questions
+ and quizzes.
+\end_layout
+
+\begin_layout Standard
+However, none of these approaches is appropriate in the context of resource-stra
+ined government schools where full text capability is required and eventually
+ local language capability.
+\end_layout
+
+\begin_layout Section
+Technological challenges in design and prototype manufacture based on innovator’
+s skill
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Technological-challenges-in"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+The case for our current feedback device design
+\end_layout
+
+\begin_layout Enumerate
+We have found that while free form writing is not needed all the time, it
+ does comprise a vital element of the learning process.
+ Hence a full keyboard requirement is essential.
+ That becomes the first differentiating element of our design against the
+ 
+\begin_inset Quotes eld
+\end_inset
+
+clickers
+\begin_inset Quotes erd
+\end_inset
+
+ that are in widespread use - but mostly in colleges rather than schools.
+\end_layout
+
+\begin_layout Enumerate
+Battery life is crucial if one is to have large classes and offer this in
+ Indian government schools.
+ Most of the devices cited above need to be charged once a day or once a
+ week.
+ We felt that one year is the minimum time between changing batteries for
+ our requirement for government schools.
+ Our experience is that batteries will last about 2 years in our current
+ product.
+\end_layout
+
+\begin_layout Enumerate
+Low cost is an essential element of our requirement.
+ The cost of our 5th generation devices which we would produce if this leads
+ to mass implementation of our program, would be of the order of USD25 which
+ in large numbers could be brought down to USD15 or less.
+ For this project we would use our current devices which had a cost of about
+ USD50.
+\end_layout
+
+\begin_layout Enumerate
+Feedback devices such as IPads can also be a distraction in the classroom
+ due to their multifunction capacity.
+ For this reason, we use a projector to project the content - which comes
+ with embedded questions carefully designed to satisfy a specific learning
+ requirement - on the wall.
+ This permits the class to focus on a single point for content and on their
+ feedback devices for entering responses.
+ Our current devices do not have displays fitted though the design permits
+ such an addition and are very adequate for this project.
+\end_layout
+
+\begin_layout Enumerate
+The design of the feedback devices has been defined by our own needs in
+ the classroom.
+ These relate to our specific requirements which include:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+viewing the response of upto 256 responders in real time as they type
+\end_layout
+
+\begin_layout Enumerate
+ability to record the up and down time of each key as it is typed
+\end_layout
+
+\begin_layout Enumerate
+ability to permit writing in Kannada with the English keyboard
+\end_layout
+
+\begin_layout Enumerate
+extended battery life of more than one year
+\end_layout
+
+\begin_layout Enumerate
+large range which exceeds 100 meters
+\end_layout
+
+\begin_layout Enumerate
+interface of the coordinating transciever via a USB port
+\end_layout
+
+\begin_layout Enumerate
+no interference between classrooms in close proximity
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+The attributes of the new feedback device design
+\end_layout
+
+\begin_layout Standard
+The primary attributes we seek from the new design which are over and above
+ the current version are:
+\end_layout
+
+\begin_layout Enumerate
+lower battery drain than current design
+\end_layout
+
+\begin_layout Enumerate
+robust construction
+\end_layout
+
+\begin_layout Enumerate
+lower cost
+\end_layout
+
+\begin_layout Enumerate
+Multiple Indian languages text entry
+\end_layout
+
+\begin_layout Enumerate
+capability to display what is being typed and to edit it.
+\end_layout
+
+\begin_layout Enumerate
+Additional functionality e.g.
+ instructor ability to blank students screens when desired
+\end_layout
+
+\begin_layout Enumerate
+GPS tracking where these devices are stolen or misplaced
+\end_layout
+
+\begin_layout Enumerate
+embedded camera to photograph student and/or recognize student.
+\end_layout
+
+\begin_layout Enumerate
+Swype display to allow faster input of text from a smaller keyboard
+\end_layout
+
+\begin_layout Enumerate
+monochrome displays
+\end_layout
+
+\begin_layout Standard
+The primary challenges will come from arbitrating between our customized
+ hardware design - as was done for the 4th generation devices - and using
+ off-the-shelf modules while satisfying the requirement for lower costs.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Section
+Introduction
+\end_layout
+
+\begin_layout Plain Layout
+The overall scope of the proposed program - in the longer term - is to provide
+ 5-10 hours a week of complementary education to children in government
+ schools in the Grade 6-12 segment in Karnataka government schools.
+ The content will be designed to help children to learn how to learn, as
+ well as to provide them with skills which are readily usable in the post
+ school scenario so that each child can be reasonably assured of one of
+ the three outcomes:
+\end_layout
+
+\begin_layout Itemize
+admission to a tertiary level program in an academic institution
+\end_layout
+
+\begin_layout Itemize
+access to a job 
+\end_layout
+
+\begin_layout Itemize
+access to an entrepreneurial opportunity
+\end_layout
+
+\begin_deeper
+\begin_layout Plain Layout
+by virtue of the learnings incurred as a result of the program.
+\end_layout
+
+\end_deeper
+\begin_layout Plain Layout
+The specific objective of the 
+\series bold
+project under consideration
+\series default
+ is to validate assertions of effective delivery through creating a significant
+ increment of learning for 60-100 students over 100 hours of our program.
+ The program incorporates three disciplines - Mathematics, English and Systems
+ Dynamics.
+ The content does not intersect with the content delivered by the school
+ system.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Rationale for 25 units only
+\end_layout
+
+\begin_layout Standard
+We need a minimum class size of about 20 students to test out the efficacy
+ of the AGEM method.
+ These 25 units will be the basis for testing the hardware robustness, the
+ functional characteristics, and the student comfort with this design.
+\end_layout
+
+\begin_layout Standard
+Should the government of Karnataka wish to move to the second and subsequent
+ phases of the proposed project, such a scalable design will be needed to
+ make those phases viable.
+ The production can then be carried out with a relatively short delay.
+ We visualize about 100 units per school will be needed.
+\end_layout
+
+\begin_layout Subsection
+Attributes of server
+\end_layout
+
+\begin_layout Standard
+There are no particular challenges required in respect of server design
+ and manufacture but we would consider the issue of embedding a projector
+ module within the server box, and of using a solar array and a battery
+ to drive the composite unit though that could be a later stage initiative.
+\end_layout
+
+\begin_layout Section
+Rationale for this initiative
+\end_layout
+
+\begin_layout Subsection
+Support by the Govt.
+ of Karnataka
+\end_layout
+
+\begin_layout Standard
+The Hon'ble Minister for Primary and Secondary Education, has supported
+ the project and advised the Director, Department of State Education Research
+ and Training to provide a feasibility report.
+ That report has recommended that the Validation phase i.e.
+ the current project under consideration be implemented.
+ The letter is attached at Appendix 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "chap:Letter-from-Department"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsection
+The general objective of this project
+\end_layout
+
+\begin_layout Standard
+India is a land of contrasts.
+ No contrast is so glaring as the contrast of wealth, purchasing power,
+ and access to health resources.
+ Many of these problems stem from access to quality education.
+ In our country, government schools, which should be the primary providers
+ of education, are giving over that space to private schools through deficient
+ delivery.
+ In Karnataka the percentage of students going to government schools is
+ 27% and declining.
+ The general objective of this project is to make government schools the
+ preferred providers of quality education for 80% of participating communities
+ within the decade.
+\end_layout
+
+\begin_layout Subsection
+What is the primary symptom of the problem?
+\end_layout
+
+\begin_layout Standard
+In order to achieve that outcome, the quality of government schools has
+ to improve.
+ The quality deficit is most apparent in the increasing gap between the
+ education that schools provide and the attributes that Industry and academia
+ need.This is illustrated most forcefully by the statement by Manish Sabharwal
+ that the company he heads - Team Lease - only employs 5% of those who apply
+ to it for a job.
+ He also says that his company which is also a training company finds that
+ 40% of those who apply need more than a year of remedial training to qualify.
+\end_layout
+
+\begin_layout Subsection
+What are the reasons for the problem
+\end_layout
+
+\begin_layout Standard
+There are several reasons:
+\end_layout
+
+\begin_layout Description
+Inertia: The education system is hostage to many forms of inertia.
+ The most fundamental is that the syllabus cannot easily be altered to meet
+ modern needs as it involves retraining teachers, re-writing textbooks along
+ with a host of other implications.
+\end_layout
+
+\begin_layout Description
+Scale: Karnataka alone has about 3 million students in Grades 6 to 8.
+ It is difficult to use those staff who are part of the current system to
+ change the system.
+ The sheer scale of the enterprise would require an army of committed reformers
+ willing to work to change the system.
+\end_layout
+
+\begin_layout Standard
+For these and several other reasons, the possibility of reform of the education
+ system to meet the needs of industry and academia is not on the cards in
+ the near term.
+ An essential element of our solution is that we leave these systems more
+ or less intact while making education for secondary education more effective
+ and more relevant to the needs of academia and industry.
+\end_layout
+
+\begin_layout Subsection
+What is the impact of the problem
+\end_layout
+
+\begin_layout Standard
+An educational system that is out of step with real-world-needs creates
+ several problems.
+\end_layout
+
+\begin_layout Itemize
+Boredom in the student body and the teaching faculty
+\end_layout
+
+\begin_layout Itemize
+High dropout rates which are well known particularly at the Class 5-6 transition
+ and the Class 10-12 transition.
+ Ultimately only a very small fraction go on to higher education.
+\end_layout
+
+\begin_layout Itemize
+Poor quality of undergraduate education.
+ If the fundamentals are not formed in the schools, this is a problem that
+ will affect the quality of undergraduate education.
+ This was forcefully expressed recently by the Vice Chancellor of Delhi
+ University who noted that a company which wished to employ a large number
+ of of Delhi University graduates ultimately chose only 3 after interviewing
+ over one thousand.
+\end_layout
+
+\begin_layout Itemize
+\noindent
+\align block
+Impact on GDP particularly in respect of the contribution of women in the
+ workforce who enter the workforce with insufficient school education.
+ The figure below shows the relationship between years of education prior
+ to entering the workforce and the GDP per capita adjusted for puchasing
+ power parity and inflation.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\noindent
+\align block
+\begin_inset Graphics
+	filename WomenInWkforce.png
+	width 70col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\noindent
+\align block
+In the picture above, each colored circle represents a country.
+ The region is correlated by color with the diagram in the top right corner.
+ The size is a function of the population.
+ Where there are trails e.g.
+ China, India, and Singapore, each circle represents a one year increment
+ from the origin of the trail which in these three cases is 1970.
+\end_layout
+
+\begin_layout Itemize
+\noindent
+\align block
+The vertical scale indicates the mean of the number of years that women
+ have spent in school for the subset of women who in 2008 were between 25
+ and 34 years of age.
+ This period generally reflects the ages of working women.
+ 
+\end_layout
+
+\begin_layout Itemize
+\noindent
+\align block
+The horizontal scale indicates the GDP per capita adjusted across time and
+ country for inflation and across countries by the principle of purchasing
+ power parity.
+\end_layout
+
+\begin_layout Itemize
+\noindent
+\align block
+One can see from this that if we take the black dashed line as an approximate
+ best fit trajectory for India then an increment of 2 years from 4 to 6
+ years (yellow dotted lines) leads to an increase in Income per person of
+ about PPP$2000.
+ However, an increase from 11 to 13 years leads to an increase of about
+ PP$20,000.
+ This makes the case for women's education specifically and for education
+ generally.
+\begin_inset Newline newline
+\end_inset
+
+However, the figure above also shows an increase in PPP$ due to the spread
+ which some countries, such as Singapore have to the right.
+ Singapore in the mid 1960's focused on using school educational quality
+ to position itself as a service provider to MNCs.
+ It did not invest so extensively in University education till much later.
+ More importantly, in the 1990's China modernized its education system to
+ change its trajectory to the right thereby generating a higher Income Per
+ Person.
+ 
+\end_layout
+
+\begin_layout Itemize
+\noindent
+\align block
+I would like to do that for India starting with Karnataka.
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+How will this project impact the problem
+\end_layout
+
+\begin_layout Subsubsection
+The characteristics of the solution
+\end_layout
+
+\begin_layout Description
+Scalability: As the lectures can be delivered over an Internet link there
+ is no limit to the number of schools that can receive this.
+ However, each school will need one classroom with sufficient feedback devices.
+ Large classes are an asset in this system as the quality of representations
+ of responses increases.
+ Such classes can come from multiple grades within the Grade 6 to 8 and
+ 9 to 12 segments.
+\end_layout
+
+\begin_layout Description
+Effectiveness: The solution requires only 5 hours a week in the first phase
+ and ten hours a week in the second phase for Grades 9-12
+\end_layout
+
+\begin_layout Description
+Meaningful
+\begin_inset space ~
+\end_inset
+
+Content: This will centralize content generation to reflect the real needs
+ of industry and academia particularly for the future.
+ This content complements the content delivered by the school by providing
+ learning by methods and practices gleaned from the latest research in neuroscie
+nce but does not compete with the current system.
+\end_layout
+
+\begin_layout Description
+Assessment: The content contains embedded questions which are used for several
+ purposes that include assessment.
+ This assessment will be centralized and used to improve the content as
+ well as to guide students to improved performance based on discrete data
+ for each student and each student group.
+\end_layout
+
+\begin_layout Description
+Database: This program has the potential to create one of the world's largest
+ databases of school performance.
+ This has various implications:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+for replacing high stakes examinations due to the large number of questions
+ that are answered per lesson varying from about 10 to 30 per hour, thereby
+ freeing teachers from following examination constraints and actually using
+ that time for helping students learn.
+ This will create a better instrument for student development, career guidance
+ and evaluation.
+\end_layout
+
+\begin_layout Itemize
+for the centralization of content and evaluation methods which will help
+ create a narrower range of performance thereby allowing higher education
+ and industry to be more effective in providing education and training.
+\end_layout
+
+\begin_layout Itemize
+for revising content on the basis of extensive feedback or for tailoring
+ content to suit cultural or geographical circumstances.
+\end_layout
+
+\begin_layout Itemize
+for identifying the talent of each child and helping the child to explore,
+ nurture and develop that talent.
+\end_layout
+
+\begin_layout Itemize
+for integrating new and better methodologies for learning derived from worldwide
+ research or culled from the vast database of performance created by this
+ system.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Homework: There is no requirement for homework in this system though students
+ may be encouraged to do projects and produce a portfolio for employers
+ and universities.
+\end_layout
+
+\begin_layout Description
+Textbooks: There are no textbooks required for students on this project.
+\end_layout
+
+\begin_layout Description
+MOOCs: Many elite universities are today providing educational modules on
+ subjects varying from artificial intelligence to entrepreneurship through
+ the medium of Massive Online Open Courses (MOOCs).
+ The defining characteristic required to take advantage of this invaluable
+ resource is a meaningful education in the teenage years.
+ I believe that students graduating from schools deploying the AGEM method
+ will be ideal populations to take advantage of the opportunities that MOOCs
+ generate.
+\end_layout
+
+\begin_layout Subsection
+How will impact be measured?
+\end_layout
+
+\begin_layout Itemize
+In the past we have used placement tests developed and tested in the United
+ States for the purpose of measuring academic impact and we will continue
+ to do this.
+ Past experience has shown that Grade 6 students are below the average level
+ of Grade 3 placement tests both in English and Maths.
+\end_layout
+
+\begin_layout Itemize
+Additionally, in this case, we hope to invoke the expertise of the Harvard
+ Graduate School of Education to conduct independent testing for academic
+ impact.
+ 
+\end_layout
+
+\begin_layout Itemize
+We also expect to test the impact on the sense of well being of the children.
+ For this we intend to use Seligman's CASQ
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Children's Attributional Style Questionnaire
+\end_layout
+
+\end_inset
+
+, WHO-5 and the WEMWBS tests which represent established methods of measurement.
+\end_layout
+
+\begin_layout Itemize
+In addition, the embedded questions in the topic plans are also used for
+ measurement of student response and progress over the duration of the course.
+\end_layout
+
+\begin_layout Itemize
+Finally, we measure changes in the end of term examinations prior to the
+ program and those taken at the end of the program.
+ This demonstrates that our students have learned how to learn and will
+ therefore see an overall improvement across the board.
+\end_layout
+
+\begin_layout Subsection
+What is the overall design of the study
+\end_layout
+
+\begin_layout Subsubsection
+Selection of students
+\end_layout
+
+\begin_layout Standard
+While we expect to test the full set of Grades 6, 7 and 8 for the study,
+ we will select half the full set to form the experimental group while the
+ remainder become the control group.
+\end_layout
+
+\begin_layout Subsubsection
+Pre and Post testing
+\end_layout
+
+\begin_layout Standard
+The following tests are envisaged both before the start of the course and
+ at the end of the course:
+\end_layout
+
+\begin_layout Itemize
+Placement tests for English and Maths conducted by us.
+ 
+\end_layout
+
+\begin_layout Itemize
+Specific tests for Systems Thinking
+\end_layout
+
+\begin_layout Itemize
+Tests of explanatory style such as CASQ, WHO-5, and WEMWBS.
+\end_layout
+
+\begin_layout Subsubsection
+Conduct of the course
+\end_layout
+
+\begin_layout Itemize
+We expect to conduct this for about 3 hours on Saturday's and about 2 hours
+ at one other day in the week.
+ 
+\end_layout
+
+\begin_layout Itemize
+The topics covered include English, Maths and Systems Thinking.
+ 
+\end_layout
+
+\begin_layout Itemize
+The approach is generally interdisciplinary so a topic plan may cover all
+ three disciplines
+\end_layout
+
+\begin_layout Itemize
+We generally prefer longer classes to avoid the wastage of time that is
+ involved in start up processes.
+ Our experience has been that students can take our classes for 5 to 6 hours
+ at a time with short breaks.
+\end_layout
+
+\begin_layout Itemize
+We expect students to work on collaborative projects using computers and
+ open source software as this is an important element of real-world environments.
+ 
+\end_layout
+
+\begin_layout Subsection
+What are the technology aspects of the project?
+\end_layout
+
+\begin_layout Standard
+Technology in terms of hardware and software is deployed as follows:
+\end_layout
+
+\begin_layout Description
+Feedback
+\begin_inset space ~
+\end_inset
+
+devices: Our fourth generation proprietary feedback devices are wireless
+ transceivers interfaced to a keyboard that operates on two AAA batteries
+ which last for about 2 years in normal operation.
+ We log details of any instance when any key is pressed or released.
+ The current version is the 4th generation of hardware and we have a fifth
+ generation planned.
+\end_layout
+
+\begin_layout Description
+Software: Software is deployed at multiple levels.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Embedded software provides the hooks for us to interface with the keyboard.
+\end_layout
+
+\begin_layout Itemize
+Interfacing software is written in C and provides low level access to the
+ data streams
+\end_layout
+
+\begin_layout Itemize
+Application software is written in Perl and provides the interface for managemen
+t of the feedback devices.
+\end_layout
+
+\begin_layout Itemize
+Representation and analysis is done in R and generates the graphics that
+ are displayed for the students after they have responded to a question.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Distribution
+\begin_inset space ~
+\end_inset
+
+Hardware: If multiple schools are being catered for, then a centralized
+ studio will be required to broadcast content to multiple locations.
+ However, control signals will also need to be broadcast to permit the opportuni
+ty for students keyboards to be activated.
+ This process will also require a server in the classroom.
+\end_layout
+
+\begin_layout Subsection
+Initial Pilot Program in Maths
+\end_layout
+
+\begin_layout Standard
+In 2010, I decided to conduct a Pilot Program to measure the effectiveness
+ of the process we had defined for improving government schools.
+ As working with government is a complex process we decided to work with
+ the Maria Niketan School in Bangalore which caters to the needs of the
+ economically deprived.
+ The results of that 
+\begin_inset CommandInset href
+LatexCommand href
+name "work"
+target "www.agem.in/pdf/BriefReport.pdf"
+
+\end_inset
+
+ convinced me that a process of low profile injection for 5 hours a week
+ would be adequate to make government schools the preferred schools for
+ 80% of participating communities.
+ This represents a low profile approach to reform which does not face the
+ inherent resistance of the current system.
+ This resistance is greater in government schools though it is significant
+ also in private schools.
+\end_layout
+
+\begin_layout Chapter
+Proposed costs and time frame for the project
+\end_layout
+
+\begin_layout Section*
+Expenditure
+\end_layout
+
+\begin_layout Standard
+The principal objective of many of these expenditures is the need for creating
+ a more effective design for the later phases of the rollout culminating
+ in the introduction of this equipment, delivery and incorporation of responses
+ into a centralized database of performance for all government schools in
+ Karnataka.
+\end_layout
+
+\begin_layout Description
+Total
+\begin_inset space ~
+\end_inset
+
+grant
+\begin_inset space ~
+\end_inset
+
+sought: 17.535 lakhs.
+\end_layout
+
+\begin_layout Subsection*
+Rationale for buying rather than hiring
+\end_layout
+
+\begin_layout Standard
+The leasing of electronic equipment is an expensive option.
+ For instance, the daily hire of a projector is about Rs.
+ 1500 per day.
+ For the two sessions required per week for twenty weeks this would amount
+ to Rs.
+ 60,000.
+ The cost of a new projector with higher specifications would be about Rs.
+ 50,000 or less.
+ There is better value in re-selling after the program is over than there
+ is in leasing.
+\end_layout
+
+\begin_layout Standard
+As for the computer laboratory, it is most likely that the school would
+ acquire it.
+ If not these devices can be sold for abut one third of the price.
+ In any event, leasing low cost devices such as Raspberry Pi's is not a
+ viable commercial option.
+\end_layout
+
+\begin_layout Subsection*
+Fifth Generation Feedback devices
+\end_layout
+
+\begin_layout Standard
+The justification for this is cited in Section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:Technological-challenges-in"
+
+\end_inset
+
+.
+ The cost of this development for 25 units is expected to be of the order
+ of 6 Lakhs, with the objective to design a device that can be manufactured
+ at a cost of USD30 or less.
+ This estimate would include the driver software as well as the application
+ software to the specifications broadly detailed in Section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:Technological-challenges-in"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection*
+Classroom infrastructure
+\end_layout
+
+\begin_layout Standard
+This will include, in the order of importance:
+\end_layout
+
+\begin_layout Itemize
+One LED projector with IP server: INR 50,000.
+ 
+\end_layout
+
+\begin_layout Itemize
+One UPS -1000 VA: INR15,000.
+ 
+\end_layout
+
+\begin_layout Itemize
+Two IP cameras recording audio and video acquiring student responses: INR20,000
+\end_layout
+
+\begin_layout Itemize
+Computer laboratory: INR 300,000
+\end_layout
+
+\begin_layout Itemize
+Feedback devices worth INR 300,000 : contributed by self
+\end_layout
+
+\begin_layout Itemize
+Server for feedback devices worth INR 50,000: contributed by self
+\end_layout
+
+\begin_layout Itemize
+Insurance costs estimated at 10% of value of this total: INR 78,500.
+\end_layout
+
+\begin_layout Subsection*
+Operational expenditure
+\end_layout
+
+\begin_layout Itemize
+HGSE
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Harvard Graduate School of Education
+\end_layout
+
+\end_inset
+
+ support: INR300,000 - costs of HGSE to measure pre and post program performance
+ of students.
+\end_layout
+
+\begin_layout Itemize
+Cost of additional preparatory materials: INR 140,000
+\end_layout
+
+\begin_layout Itemize
+Support staff salary: INR 200,000
+\end_layout
+
+\begin_layout Itemize
+Exigencies: 50,000
+\end_layout
+
+\begin_layout Itemize
+Topic plans and project materials estimated at INR 500,000 - contributed
+ by self.
+\end_layout
+
+\begin_layout Subsection*
+Total Expenditure
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="6" columns="4">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="left" valignment="top">
+<column alignment="center" valignment="top" width="0pt">
+<column alignment="center" valignment="top" width="0pt">
+<column alignment="center" valignment="top" width="0pt">
+<row>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Category
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Total Cost ('000)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Grant sought ('000)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Applicant Contrib.
+ ('000)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Feedback devices - 5th.
+ generation
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+600.0
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+600.0
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+0.0
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Classroom infrastructure & Insurance
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+813.5
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+463.5
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+350.0
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Operational expenditure less salaries
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+990.0
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+490.0
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+500.0
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Salaries
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+200.0
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+200.0
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+0.0
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Total
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+2603.5
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+1753.5
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+850.0
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+R&D/Design Engg/Consultancy charges
+\end_layout
+
+\begin_layout Subsection
+Own share
+\end_layout
+
+\begin_layout Standard
+My share and personal investment has been in developing this project since
+ 1998.
+ Some of those costs have been covered by contributions from various institution
+s and individuals who believe in the need for improving the education our
+ children get, but the costs of the 4th generation devices have been entirely
+ borne by me.
+ These amounted to about 4 lakhs.
+\end_layout
+
+\begin_layout Subsection
+Prism support sought
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+INR 600,000
+\end_layout
+
+\end_inset
+
+: We intend to produce 25 units of the fifth generation devices so that
+ they can be ready for deployment in succeeding phases of the Karnataka
+ program.
+ Refer end of Section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "PhasesKarnatakaProgram"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Basis of estimation/justification
+\end_layout
+
+\begin_layout Standard
+Today we are looking at two designs.
+ The second design has a Bill of materials of about USD30.The design and
+ manufacture for this first design will be done by our collaborator in the
+ United Kingdom at their cheapest rate.
+ The second design has a large component of off-the-shelf hardware and the
+ major cost will be in integration and software development.
+ The choice will be arbitrated by unit cost in quantities of tens of thousands,
+ time, complexity, battery life, functionality and software development
+ required.
+\end_layout
+
+\begin_layout Section
+Rental charges for laboratory/workshop facilities
+\end_layout
+
+\begin_layout Standard
+No India based laboratories/workshops are expected to be deployed.
+\end_layout
+
+\begin_layout Subsection
+Own share
+\end_layout
+
+\begin_layout Standard
+Nil
+\end_layout
+
+\begin_layout Subsection
+PRISM support sought
+\end_layout
+
+\begin_layout Standard
+Nil
+\end_layout
+
+\begin_layout Subsection
+Basis of estimation/justification
+\end_layout
+
+\begin_layout Standard
+.N/A
+\end_layout
+
+\begin_layout Section
+Essential equipment that cannot be taken on rent
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Essential-equipment-that"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+INR 50,000
+\end_layout
+
+\end_inset
+
+: One LED projector with IP server
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+Estimate based on Dell M900HD.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+INR 15,000
+\end_layout
+
+\end_inset
+
+: One UPS -1000 VA
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+Estimate based on APC UPS Model: BR1500G-IN 1.5 KVA
+\end_layout
+
+\end_deeper
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+INR 20,000
+\end_layout
+
+\end_inset
+
+: Recording audio and video for acquiring student responses.
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+Estimate based on Logitech BCC950 ConferenceCam
+\end_layout
+
+\end_deeper
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+INR 300,000
+\end_layout
+
+\end_inset
+
+: Computer laboratory with 20 stations 
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+Estimate based on a soon to-be-released product or Raspberry Pi with 14in
+ monitors.
+ Open source system visualized using Ubuntu as an operating system.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+INR 300,000
+\end_layout
+
+\end_inset
+
+: Feedback devices worth 3 lakhs: contributed by self
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+Estimate based on actual prices paid
+\end_layout
+
+\end_deeper
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+INR 50,000
+\end_layout
+
+\end_inset
+
+: Server for feedback devices and transceiver : contributed by self
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+Estimate: actual costs
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Own share
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+INR 350,000
+\end_layout
+
+\end_inset
+
+: estimated costs of feedback devices and server
+\end_layout
+
+\begin_layout Subsection
+PRISM support sought
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+INR 385,000
+\end_layout
+
+\end_inset
+
+: Remaining elements of Section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:Essential-equipment-that"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Raw Material/spares/consumables cost
+\end_layout
+
+\begin_layout Standard
+These are not applicable as the hardware development work will be outsourced
+ to organizations we have worked with for many years.
+\end_layout
+
+\begin_layout Section
+Fabrication/synthesis charges
+\end_layout
+
+\begin_layout Standard
+These are not applicable as the hardware development work will be outsourced
+ to organizations we have worked with for many years.
+\end_layout
+
+\begin_layout Section
+Manpower cost of technical assistants
+\end_layout
+
+\begin_layout Standard
+For the duration of the project, the salary for two technical assistants
+ will be about two lakhs.
+\end_layout
+
+\begin_layout Subsection
+Own share
+\end_layout
+
+\begin_layout Standard
+Nil, as I will be contributing my own time and effort to design the topic
+ plans, and doing the principal part of the delivery in the classroom.
+\end_layout
+
+\begin_layout Subsection
+PRISM support sought
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+INR 200,000
+\end_layout
+
+\end_inset
+
+: Cost of deploying technical assistants
+\end_layout
+
+\begin_layout Subsubsection
+Basis of estimation/justification
+\end_layout
+
+\begin_layout Standard
+This estimate is reflective of current rates in Bangalore for the various
+ services envisaged which includes manpower cost of design of materials,
+ assistance with delivery of topic plans etc.
+ It remains however an estimate.
+\end_layout
+
+\begin_layout Section
+Testing and Trials
+\end_layout
+
+\begin_layout Standard
+The testing and trials of the 5th generation devices will be conducted during
+ the school program while testing and trial of topic plans will be conducted
+ using existing 4th generation devices.
+\end_layout
+
+\begin_layout Subsection
+Own cost
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+500,000
+\end_layout
+
+\end_inset
+
+: Topic plans and project materials estimate.
+\end_layout
+
+\begin_layout Subsection
+PRISM support sought
+\end_layout
+
+\begin_layout Subsubsection
+Operational expenditure
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+INR 140,000
+\end_layout
+
+\end_inset
+
+: Cost of preparatory materials
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+INR 50,000
+\end_layout
+
+\end_inset
+
+: Exigencies
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+INR 78,500
+\end_layout
+
+\end_inset
+
+: Insurance for all equipment in use (Applicant and PRISM grant)
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+INR 300,000
+\end_layout
+
+\end_inset
+
+: HGSE or equivalent support
+\end_layout
+
+\begin_layout Section
+Travel
+\end_layout
+
+\begin_layout Standard
+A return trip for travel to the United Kingdom or Taiwan/China may be required
+ though that is not necessarily certain.
+ Hence, it has not been accounted for here.
+ We expect to use video conferencing for any such requirement unless it
+ becomes absolutely necessary in which case we would ask for permission
+ to cross subsidize from other headers for this project.
+\end_layout
+
+\begin_layout Section
+Patent Filing
+\end_layout
+
+\begin_layout Standard
+We do not expect to file a patent for this work though we may copyright
+ our materials.
+\end_layout
+
+\begin_layout Section
+Total cost
+\end_layout
+
+\begin_layout Standard
+The total cost is 26.03 lakhs
+\end_layout
+
+\begin_layout Subsection*
+Own share
+\end_layout
+
+\begin_layout Standard
+8.5 lakhs
+\end_layout
+
+\begin_layout Subsubsection*
+PRISM support sought
+\end_layout
+
+\begin_layout Standard
+17.53 lakhs
+\end_layout
+
+\begin_layout Chapter
+Activity details/work plan
+\end_layout
+
+\begin_layout Standard
+The following plan is based on the assumption that funding for the first
+ stage is received by 1 October, 2014.
+\end_layout
+
+\begin_layout Section
+Design engineering (for product innovation)/ Research and Development/consultanc
+y (for processes innovation)
+\end_layout
+
+\begin_layout Subsection
+Monitorable milestones
+\end_layout
+
+\begin_layout Subsubsection
+Design
+\begin_inset space ~
+\end_inset
+
+engineering
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+4 November 2014
+\end_layout
+
+\end_inset
+
+: Statement of functional specifications for 5th generation feedback devices.
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+5 Jan.
+ 2015
+\end_layout
+
+\end_inset
+
+: Decision on design approach i.e.
+ new hardware design or off-the-shelf integration option.
+\end_layout
+
+\begin_layout Subsubsection
+Research/Development/Consultancy
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+7 October 2014
+\end_layout
+
+\end_inset
+
+: Consultancy negotiations with HGSE or similar organization for independent
+ Pre and Post testing of student group 
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+3 November 2014
+\end_layout
+
+\end_inset
+
+: Design of topic plans, setting up of computer laboratory and setting up
+ classroom space.
+\end_layout
+
+\begin_layout Subsection
+Duration
+\end_layout
+
+\begin_layout Standard
+3 months
+\end_layout
+
+\begin_layout Subsection
+Budget required from Prism
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+INR 200,000
+\end_layout
+
+\end_inset
+
+: One third cost of 5th generation feedback device development
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+INR 50,000
+\end_layout
+
+\end_inset
+
+: One LED projector with IP server
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+INR 15,000
+\end_layout
+
+\end_inset
+
+: One UPS -1000 VA
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+INR 20,000
+\end_layout
+
+\end_inset
+
+: Recording audio and video for acquiring student responses.
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+INR 70,000
+\end_layout
+
+\end_inset
+
+: Half cost of preparatory materials for topic plans.
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+INR 300,000
+\end_layout
+
+\end_inset
+
+: Computer laboratory with 20 stations 
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+INR 78,500
+\end_layout
+
+\end_inset
+
+: Insurance costs estimated at 10% of value
+\end_layout
+
+\begin_layout Subsubsection
+Total Sum required
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+INR 603,500
+\end_layout
+
+\end_inset
+
+: Total sum for this header
+\end_layout
+
+\begin_layout Section
+Working mode/prototype development or Lab scale process development
+\end_layout
+
+\begin_layout Subsection
+Monitorable milestones
+\end_layout
+
+\begin_layout Subsubsection
+Prototype development
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+1 March 2015
+\end_layout
+
+\end_inset
+
+: Working model of 5th generation feedback device.
+ 
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+1 August 2015
+\end_layout
+
+\end_inset
+
+: 25 working models of 5th generation, feedback devices ready
+\end_layout
+
+\begin_layout Subsubsection
+Lab scale process development
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+3 November 2014
+\end_layout
+
+\end_inset
+
+: Commencement of Pre-tests for Maths, English and Systems thinking.
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+10 November 2014
+\end_layout
+
+\end_inset
+
+: Independent Pre tests (HGSE) of student ability
+\end_layout
+
+\begin_layout Subsection
+Duration
+\end_layout
+
+\begin_layout Standard
+9 months - 3 Nov., 2014 to 1 Aug., 2015
+\end_layout
+
+\begin_layout Subsection
+Budget required
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+INR 200,000
+\end_layout
+
+\end_inset
+
+: One third cost of 5th generation feedback device development
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+INR 150,000
+\end_layout
+
+\end_inset
+
+: Half cost of Pre-test/Post-Test by Independent assessor (HGSE or equivalent)
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+INR 100,000
+\end_layout
+
+\end_inset
+
+: Half cost of supporting staff
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+INR 25,000
+\end_layout
+
+\end_inset
+
+: Half budget for exigencies
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+INR 70,000
+\end_layout
+
+\end_inset
+
+: Second half cost of preparatory materials for topic plans.
+\end_layout
+
+\begin_layout Subsubsection
+Total Sum required
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+INR 545,000
+\end_layout
+
+\end_inset
+
+: Total sum for this header
+\end_layout
+
+\begin_layout Section
+Product testing/process demonstration
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+10 November 2014
+\end_layout
+
+\end_inset
+
+: Commencement of 100 hours of instruction in English, Maths and Systems
+ Thinking.
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+1 August 2015
+\end_layout
+
+\end_inset
+
+: First version of application software for 5th generation feedback devices
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+1 September 2015
+\end_layout
+
+\end_inset
+
+: Commencement of 5th generation feedback devices testing for about 20 hours
+ of classroom usage.
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+6 October 2015
+\end_layout
+
+\end_inset
+
+: Final tweaking of application software.
+\end_layout
+
+\begin_layout Subsection
+Duration
+\end_layout
+
+\begin_layout Standard
+9 months -10 November 2014 to 6 October 2015
+\end_layout
+
+\begin_layout Subsection
+Budget required
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+INR 200,000
+\end_layout
+
+\end_inset
+
+: One third cost of 5th generation feedback device development
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+INR 150,000
+\end_layout
+
+\end_inset
+
+: Half cost of Pre-test/Post-Test by Independent assessor (HGSE or equivalent)
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+INR 100,000
+\end_layout
+
+\end_inset
+
+: Second half cost of supporting staff
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+INR 25,000
+\end_layout
+
+\end_inset
+
+: Second half budget for exigencies
+\end_layout
+
+\begin_layout Subsubsection
+Total Sum required
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+INR 545,000
+\end_layout
+
+\end_inset
+
+: Total sum for this header
+\end_layout
+
+\begin_layout Section
+Others 
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+15 December 2015
+\end_layout
+
+\end_inset
+
+: Final report of Pilot Project available
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+15 January 2016
+\end_layout
+
+\end_inset
+
+: First iteration of hardware, software and application software finalized
+ and tested.
+\end_layout
+
+\begin_layout Subsection
+Duration
+\end_layout
+
+\begin_layout Standard
+1 month
+\end_layout
+
+\begin_layout Subsection
+Budget
+\end_layout
+
+\begin_layout Standard
+Nil
+\end_layout
+
+\begin_layout Chapter
+(a) End product / process / output-resulting from the idea/ invention/ innovatio
+n / final deliverables 
+\emph on
+(Including targeted specifications, performance requirements/standards)
+ 
+\emph default
+(b) Innovation’s benefit to the society
+\end_layout
+
+\begin_layout Section
+End product / process / output-resulting from the idea/ invention/ innovation
+ / final deliverables
+\end_layout
+
+\begin_layout Standard
+The end product resulting from this initiative is a system of education
+ for government schools that will make participating government schools
+ the preferred schools in urban communities.
+\end_layout
+
+\begin_layout Standard
+The specific objectives, initial and final deliverables are indicated below
+ in an extract from the presentation to the Hon'ble Minister Primary and
+ Secondary Education, Govt.
+ of Karnataka.
+\end_layout
+
+\begin_layout Standard
+One answer to this question lies under the Section 
+\begin_inset Quotes eld
+\end_inset
+
+Innovations components
+\begin_inset Quotes erd
+\end_inset
+
+ on Page 4.
+\end_layout
+
+\begin_layout Standard
+A more specific definition of the outputs resulting from the idea are indicated
+ below:
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename FirstPhase.png
+	lyxscale 30
+	width 70col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename Other4Phases.png
+	lyxscale 30
+	width 70col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Scope-and-sequence"
+
+\end_inset
+
+Scope and sequence of the AGEM project
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Innovation's benefit to society
+\end_layout
+
+\begin_layout Itemize
+This question is best answered by the specific presentation to the Minister,
+ Primary and Secondary Education, Govt.
+ of Karnataka which is embedded 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+textattachfile[color=0 0 1]{Presentation.pdf}{here}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+This presentation defines what we want from the Govt.
+ of Karnataka, and illustrates the factors that dictate the need for change.
+ We show in that presentation why the Govt.
+ needs to support AGEM and summarize the issues involved.
+\end_layout
+
+\begin_layout Itemize
+It is important that this presentation is reviewed using Adobe Reader so
+ that the attachments and links can be accessed.
+\end_layout
+
+\begin_layout Chapter
+Any other information related to the project
+\end_layout
+
+\begin_layout Standard
+This project is supported by the Hon'ble Minister for Primary and Secondary
+ Education and by the Director, Department of State Education Research and
+ Training as indicated by the letter from Director, DSERT in Appendix A
+\end_layout
+
+\begin_layout Standard
+The process which will permit the project to go to any succeeding phase
+ is expressed in Figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Scope-and-sequence"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I would like to stress that almost all sessions of earlier teaching have
+ been video recorded and are available for review.
+ There have been instances where sections of video are missing in some of
+ the recordings due to some problems but we have over 20 hours of recording
+ which can be made available for review.
+\end_layout
+
+\begin_layout Chapter
+Referees (Two Nos with complete address, phone number and email ID)
+\end_layout
+
+\begin_layout Chapter
+Declaration
+\end_layout
+
+\begin_layout Standard
+I / We declare that all the statements made in this application are true,
+ complete and correct to the best of my/our knowledge and belief.
+ In the event of any information, found false or incorrect, my/our candidature
+ will stand cancelled and all my/us claims will be forfeited.
+ I / We have not received any financial assistance for the present proposal
+ from any other agency.
+\end_layout
+
+\begin_layout Standard
+Place:
+\begin_inset space \hfill{}
+\end_inset
+
+Signature of the applicant
+\end_layout
+
+\begin_layout Standard
+Date:
+\end_layout
+
+\begin_layout Chapter
+RECOMMENDATIONS OF THE FORWARDING TePP Outreach Cum Cluster Innovation Centre
+ (TOCIC)
+\end_layout
+
+\begin_layout Standard
+Place: 
+\begin_inset space \hfill{}
+\end_inset
+
+Signature of the Head, TOCIC
+\end_layout
+
+\begin_layout Standard
+Date:
+\end_layout
+
+\begin_layout Chapter
+\start_of_appendix
+Letter from Department of State Education Research and Training.
+\begin_inset CommandInset label
+LatexCommand label
+name "chap:Letter-from-Department"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename DSERTcertification/AGEM 25-08-2014_05.PDF
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Informal translation of the letter from Director, DSERT
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename DSERTcertification/AGEM Pilot - DSERT Letter.pdf
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
